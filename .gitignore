@@ -1,0 +1,7 @@
+Debug
+Release
+*.suo
+bauteil2/Debug
+bauteil2/Release
+ipch
+*.sdb
